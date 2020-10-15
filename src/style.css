@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+body{
+    background: rgb(48, 40, 77);
+    color: khaki;
+    font-family: Roboto;
+    padding: 0;
+    margin: 0;
+}

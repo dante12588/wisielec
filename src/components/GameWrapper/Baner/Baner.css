@@ -1,0 +1,13 @@
+.baner{
+    background-color: goldenrod;
+    padding: 0;
+    margin: 0;
+    height: 80px;
+}
+
+.baner__title{
+    margin: 0;
+    text-align: center;
+    padding-top: 10px;
+    
+}
